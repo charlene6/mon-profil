@@ -1,0 +1,72 @@
+body{
+	    background-color: #ECCFD1;
+}
+h1{
+	color: #520556;
+    font-size: 24px;
+    font-family:times;
+    font-weight: 520;
+}
+p{
+	font-weight: 500
+}
+a{
+	text-decoration:none;
+	color:#8B104E;
+	font-weight: bold;
+}
+a:hover {
+	color:blue;
+}
+h2, h3, h4{
+	font-family: noto serif;
+	color: #7A4579;
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+}
+
+
+/* Custom design with class*/
+.container{
+	width: 650px;
+	margin:40px auto;
+}
+.card-floralwhite{
+	background-color: floralwhite;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+    border-radius: 4px;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.img-circle{
+	border-radius: 50%;
+}
+.btn-blue{
+	background-color: #8B104E;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 4px;
+}
+.btn-blue:hover {
+	background-color: #D291BC;
+	color: black;
+
+}
+
+
+
+
+
+
+
+
+
